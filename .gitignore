@@ -2,3 +2,31 @@
 .svn
 .bak
 .vim*
+
+# IntelliJ
+.idea/
+*.iws
+*.iml
+*.ipr
+*.ips
+*.idea/
+
+
+# Eclipse
+.settings/
+.metadata/
+.classpath
+.project
+
+# Generated
+target/
+javadoc/
+bin/
+log/
+
+# Misc.
+.DS_Store
+*.bak
+
+# Sample images
+
